@@ -7,7 +7,7 @@
 - [x] Pertemuan 4
 - [x] Pertemuan 5
 - [x] Pertemuan 6
-- [ ] Pertemuan 7
+- [x] Pertemuan 7
 - [ ] Pertemuan 8
 - [ ] Pertemuan 9
 - [ ] Pertemuan 10
